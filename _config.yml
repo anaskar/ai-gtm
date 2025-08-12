@@ -1,24 +1,6 @@
 title: AI GTM Portfolio
 description: Projects, playbooks, and writing on AI-native GTM, demand generation, and RevOps.
+
 remote_theme: pages-themes/minimal@v0.2.0
-
-# Navigation header
-header_pages:
-  - projects.md
-  - blog.md
-  - about.md
-
-# Social links (optional, shown in footer for Minimal theme)
-social_links:
-  - { platform: linkedin, user_url: https://www.linkedin.com/in/YOUR-HANDLE }
-  - { platform: github,   user_url: https://github.com/YOUR-USERNAME }
-  - { platform: x,        user_url: https://twitter.com/YOUR-HANDLE }
-
-# Plugins supported by GitHub Pages
 plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-  - jeckyll-remote-theme
-
-# Build settings
-markdown: kramdown
+- jekyll-remote-theme # add this line to the plugins list if you already have one
