@@ -1,12 +1,6 @@
 title: AI GTM
 description: Projects, playbooks, and writing on AI-native GTM, demand gen, and RevOps.
 remote_theme: pages-themes/minimal@v0.2.0
-minima:
-  skin: auto
-  social_links:
-    - { platform: linkedin, user_url: https://www.linkedin.com/in/arjunnaskar }
-    - { platform: github,   user_url: https://github.com/anaskar }
-    - { platform: x,        user_url: https://twitter.com/anaskar }
 header_pages:
   - projects.md
   - blog.md
