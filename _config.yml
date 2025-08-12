@@ -1,6 +1,6 @@
 title: AI GTM
 description: Projects, playbooks, and writing on AI-native GTM, demand gen, and RevOps.
-theme: minima
+remote_theme: pages-themes/minimal@v0.2.0
 minima:
   skin: auto
   social_links:
@@ -14,3 +14,4 @@ header_pages:
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-remote-theme
