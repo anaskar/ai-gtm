@@ -2,17 +2,7 @@ title: AI GTM Portfolio
 description: Projects, playbooks, and writing on AI-native GTM, demand generation, and RevOps.
 remote_theme: pages-themes/minimal@v0.2.0
 
-# Top nav items
-header_pages:
-  - projects.md
-  - blog.md
-  - about.md
 
-# Collections for project subpages
-collections:
-  projects:
-    output: true
-    permalink: /projects/:name/
 
 # GitHub Pages–supported plugins
 plugins:
